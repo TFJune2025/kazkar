@@ -128,4 +128,4 @@ For my portfolio, Казкар is an embedded/electronics milestone rather than 
 
 ## License
 
-This project is open source.
+This project is open source and available under the [MIT License](LICENSE).
