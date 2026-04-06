@@ -107,8 +107,11 @@ For my portfolio, Казкар is an embedded/electronics milestone rather than 
 ├── firmware/
 │   └── 3-button_player.ino
 ├── hardware/
-│   ├── kazkar_design.lbrn2
-│   └── kazkar_radio_parts.lbrn2
+│   ├── fritzing/
+│   │   ├── kazkar_wiring_diagram.fzz
+│   │   └── README.md
+│   └── lightburn/
+│       └── kazkar_design.lbrn2
 └── docs/
     ├── ASSEMBLY.md
     ├── BILL_OF_MATERIALS.md
@@ -121,7 +124,7 @@ For my portfolio, Казкар is an embedded/electronics milestone rather than 
 ## Documentation map
 
 - [Electronics](docs/ELECTRONICS.md)
-- [Schematic / wiring diagram](docs/SCHEMATIC.md)
+- [Wiring diagram](docs/SCHEMATIC.md)
 - [Enclosure](docs/ENCLOSURE.md)
 - [Assembly notes](docs/ASSEMBLY.md)
 - [Bill of materials](docs/BILL_OF_MATERIALS.md)

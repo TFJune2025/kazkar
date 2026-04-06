@@ -1,10 +1,10 @@
 # Schematic / Wiring Diagram
 
-![Kazkar wiring diagram](img/kazkar_wiring_diagram.png)
+Wiring diagram source file: `../hardware/fritzing/kazkar_wiring_diagram.fzz`
 
 ## About this diagram
 
-This repository includes a rendered wiring diagram of the final documented build. It maps the final front-panel control layout to the Arduino pinout, SPI microSD wiring, speaker connection, and USB power.
+This repository includes a Fritzing wiring diagram of the final documented build. It maps the final front-panel control layout to the Arduino pinout, SPI microSD wiring, speaker connection, and USB power.
 
 The diagram reflects:
 
@@ -41,11 +41,3 @@ The diagram reflects:
 ### Power
 
 - Arduino Uno powered from a **5V USB power bank** in normal portable use
-
-## Future extension
-
-If the project is revised later, this repo can be extended with:
-
-- a full Fritzing breadboard file
-- a formal schematic capture
-- or a KiCad schematic and PCB

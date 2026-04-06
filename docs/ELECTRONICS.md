@@ -1,6 +1,6 @@
 # Electronics
 
-![Kazkar wiring diagram](img/kazkar_wiring_diagram.png)
+Wiring diagram source file: `../hardware/fritzing/kazkar_wiring_diagram.fzz`
 
 ## Overview
 
@@ -41,7 +41,7 @@ The finished enclosure uses this button arrangement:
 - **White** — Previous
 - **Green** — Next
 
-That wiring diagram reflects the final physical build, including the color-to-function mapping of the front-panel controls. The code itself only defines the functions by pin, not by button color. 
+The Fritzing wiring diagram reflects the final physical build, including the color-to-function mapping of the front-panel controls. The code itself defines the functions by pin, not by button color.
 
 ## Power
 

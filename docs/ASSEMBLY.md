@@ -54,7 +54,6 @@ A second-generation build would likely focus on:
 
 - cleaner internal mounting
 - more robust wire management
-- a formal schematic capture
 - perfboard or PCB transition
 - a cleaner power integration strategy
 - stronger serviceability and assembly discipline
